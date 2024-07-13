@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**kimiathy/kimiathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bio
 
-Here are some ideas to get you started:
+**Name and Title:**
+Kimia Tahayori
+Cybersecurity Researcher and Research Assistant at the University of Windsor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Professional Summary:**
+Highly skilled Cybersecurity Researcher with extensive experience in secure systems and data protection strategies. Collaborated with the National Research Council Canada on advanced cybersecurity projects and contributed to academic publications. Recently graduated with an MSc in Computer Science (AI Stream) from the University of Windsor, with a strong background in AI and cybersecurity. Previously excelled as a Security Engineer at Pars PC World Company, where I safeguarded network infrastructure and implemented robust security measures to protect sensitive data.
+
+**Current Focus:**
+Currently working on implementing Moving Target Defense (MTD) strategies to enhance the security of deep neural networks against adversarial attacks. Conducting research in cybersecurity and AI, focusing on secure systems and data protection strategies.
+
+**Skills and Technologies:**
+- **Cybersecurity & Data Security**
+- **Network Security & Computer Networking**
+- **Deep Learning & Neural Networks**
+- **Programming:** Python, PyTorch, SQL, GPU Programming, java
+- **Soft Skills:** Team Work, Time Management, Flexibility, Mathematics, Communication, Problem-Solving
+
+**Contact Information:**
+- 📍 Toronto, Ontario
+- 📞 +1 (437) 973 1375
+- ✉️ tahayor@uwindsor.ca | kimia.tahayorii@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kimia-tahayori/)
+
