@@ -12,7 +12,7 @@ Highly skilled Cybersecurity Researcher with extensive experience in secure syst
 **Current Focus:**
 Currently working on implementing Moving Target Defense (MTD) strategies to enhance the security of deep neural networks against adversarial attacks. Conducting research in cybersecurity and AI, focusing on secure systems and data protection strategies.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,mysql,latex,ps,pycharm,pytorch,py,sklearn,vscode,windows,linux,tensorflow,pytorch,git,latex)](https://skillicons.dev)
 github
 
 <p align="center">
