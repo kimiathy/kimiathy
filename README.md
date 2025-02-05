@@ -4,7 +4,7 @@
 
 **Name and Title:**
 Kimia Tahayori
-Cybersecurity Researcher and Engineer and Research Assistant at the University of Windsor
+Cybersecurity Analyst and Research Associate at the University of Windsor
 
 **Professional Summary:**
 Highly skilled Cybersecurity Researcher with extensive experience in secure systems and data protection strategies. Collaborated with the National Research Council Canada on advanced cybersecurity projects and contributed to academic publications. Recently graduated with an MSc in Computer Science (AI Stream) from the University of Windsor, with a strong background in AI and cybersecurity. Previously excelled as a Security Engineer at Pars PC World Company, where I safeguarded network infrastructure and implemented robust security measures to protect sensitive data.
